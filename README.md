@@ -1,8 +1,8 @@
 ---
 description: OpenClaw 多 Agent 共享资源根目录
 owner_agent: main
-last_updated_by: cloud
-last_updated_at: 2026-03-10T10:26:27+08:00
+last_updated_by: main
+last_updated_at: 2026-03-10T13:38:46+08:00
 ---
 
 # Share 共享资源目录
@@ -27,3 +27,11 @@ share/
 ├── main/
 └── swift-task/
 ```
+
+<!-- source-share:human-visual:start -->
+## Git 活动可视化（仅供人类查看）
+
+该图片用于帮助人类快速查看仓库提交/推送活跃度。Agent 不需要访问该链接。
+
+![Alt](https://repobeats.axiom.co/api/embed/706071adeba5053e5fa6561e6d1e3e893d983ae3.svg "Repobeats analytics image")
+<!-- source-share:human-visual:end -->
