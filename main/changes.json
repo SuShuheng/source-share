@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "directory": "share/main",
+  "owner_agent": "main",
+  "created_at": "2026-03-09T21:04:06+08:00",
+  "last_updated_at": "2026-03-09T21:06:24+08:00",
+  "entries": [
+    {
+      "timestamp": "2026-03-09T21:04:06+08:00",
+      "level": "info",
+      "agent": "main",
+      "action": "bootstrap",
+      "summary": "Initialized directory tracking",
+      "details": "Created required metadata files"
+    },
+    {
+      "timestamp": "2026-03-09T21:06:24+08:00",
+      "level": "info",
+      "agent": "main",
+      "action": "cleanup-test",
+      "summary": "Removed source-share real test sample",
+      "details": "Deleted reports/source-share-test and restored base share structure"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+---
+description: liuhua 共享目录
+owner_agent: liuhua
+last_updated_by: liuhua
+last_updated_at: 2026-03-10T08:37:30+08:00
+---
+
+# liuhua 共享目录
+
+## 当前目录用途
+存放当前目录下的共享子目录和资源分组。
+
+## 目录树
+```text
+liuhua/
+├── AI日报/
+└── GitHub热榜/
+```
+
+## 使用提示
+- 中间目录展示文件夹树
+- 连续单分支结构层可按规则折叠
