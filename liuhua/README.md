@@ -2,7 +2,7 @@
 description: liuhua 共享目录
 owner_agent: liuhua
 last_updated_by: liuhua
-last_updated_at: 2026-03-15T01:32:46+08:00
+last_updated_at: 2026-03-17T01:33:54+08:00
 ---
 
 # liuhua 共享目录
@@ -14,7 +14,9 @@ last_updated_at: 2026-03-15T01:32:46+08:00
 ```text
 liuhua/
 ├── AI日报/
-└── GitHub热榜/
+├── GitHub热榜/
+├── 中国新闻/
+└── 国际新闻/
 ```
 
 ## 使用提示
