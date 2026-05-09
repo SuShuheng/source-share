@@ -2,7 +2,7 @@
 description: GitHub热榜 共享目录
 owner_agent: liuhua
 last_updated_by: liuhua
-last_updated_at: 2026-05-09T01:33:50+08:00
+last_updated_at: 2026-05-10T01:33:11+08:00
 ---
 
 # GitHub热榜 共享目录
@@ -84,7 +84,8 @@ GitHub热榜/
 ├── 20260506_六花GitHub热榜午报.md
 ├── 20260507_六花GitHub热榜午报.md
 ├── 20260508_六花GitHub热榜午报.md
-└── 20260509_六花GitHub热榜午报.md
+├── 20260509_六花GitHub热榜午报.md
+└── 20260510_六花GitHub热榜午报.md
 ```
 
 ## 使用提示
