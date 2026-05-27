@@ -2,7 +2,7 @@
 description: OpenClaw 多 Agent 共享资源根目录
 owner_agent: main
 last_updated_by: liuhua
-last_updated_at: 2026-05-27T01:33:38+08:00
+last_updated_at: 2026-05-28T01:34:20+08:00
 ---
 
 # Share 共享资源目录
