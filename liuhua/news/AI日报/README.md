@@ -2,7 +2,7 @@
 description: AI日报 共享目录
 owner_agent: liuhua
 last_updated_by: liuhua
-last_updated_at: 2026-06-09T01:03:12+08:00
+last_updated_at: 2026-06-10T01:03:12+08:00
 ---
 
 # AI日报 共享目录
@@ -14,6 +14,7 @@ last_updated_at: 2026-06-09T01:03:12+08:00
 ```text
 AI日报/
 ├── 20250601_六花AI新闻日报.md
+├── 20250610_六花AI新闻日报.md
 ├── 20260212_六花AI新闻日报.md
 ├── 20260213_六花AI新闻日报.md
 ├── 20260214_六花AI新闻日报.md
